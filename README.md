@@ -11,7 +11,7 @@
 <a href="https://vishal-git9.github.io/" align="left" target="blank">My Portfolio:</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal rajawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal rajawat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-rajawat-768577196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal rajawat" height="30" width="40" /></a>
 <a href="https://codesandbox.com/vishalsinghrajawat990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vishalsinghrajawat990" height="30" width="40" /></a>
 </p>
 
