@@ -24,7 +24,7 @@
   
 ### © Contact Me :
   
-[<img src='https://img.icons8.com/nolan/512/github.png' title="Github" alt='github' height='40'>](https://github.com/amansingh456)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/linkedin-circled.png' title="Linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/aman690)    [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/internet.png' title="Portfolio" alt='website' height='40'>](https://amansingh456.github.io/)  
+[<img src='https://img.icons8.com/nolan/512/github.png' title="Github" alt='github' height='40'>](https://github.com/vishal-git9)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/linkedin-circled.png' title="Linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-rajawat-768577196/)    [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/internet.png' title="Portfolio" alt='website' height='40'>](https://vishal-git9.github.io/)  
 
  
 ### 📛 Badges :  
@@ -32,14 +32,14 @@
 
   
 ### 🏆Trophies :  
-[![trophy](https://github-profile-trophy.vercel.app/?username=amansingh456)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishal-git9)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh456)](https://github.com/anuraghazra/github-readme-stats)          ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh456&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-git9)](https://github.com/anuraghazra/github-readme-stats)          ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-git9&show_icons=true) 
 
  
 
 
   
-![Profile views](https://gpvc.arturio.dev/amansingh456)
+![Profile views](https://gpvc.arturio.dev/vishal-git9)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=amansingh456)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=vishal-git9)
