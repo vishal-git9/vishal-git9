@@ -5,7 +5,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,jest,ts,nodejs,mongodb,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui,jest,ts,nodejs,mongodb,express)](https://skillicons.dev)
   
   
 
